@@ -51,7 +51,7 @@ This is a web application designed to provide a live stream of events. It featur
 - Replace the **src** attribute of the **<iframe>** in the **.video-container** with your YouTube video link:
     ```bash
     <iframe 
-     src="https://www.youtube.com/embed/kZwg8U_RCsg?controls=1&modestbranding=1&rel=0"
+     src="https://www.youtube.com/embed/dQw4w9WgXcQ?controls=1&modestbranding=1&rel=0"
      frameborder="0"
      allowfullscreen
      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture">
